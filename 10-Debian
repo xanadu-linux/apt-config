@@ -1,0 +1,3 @@
+Acquire::Language "none";
+Acquire::PDiffs  "false";
+APT::Clean-Installed  "true";
