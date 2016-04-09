@@ -1,4 +1,16 @@
-commit 449f68193e9b0ff654c18a3d12d40602b4901597 (HEAD, origin/master, origin/HEAD, master)
+commit b01e06180ef44bedfd159b4524b2435dce943273 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Apr 9 11:45:59 2016 -0430
+
+    * licencia
+
+commit 4e5c692b0d9a5c51664f48aa45957a3b371d5b36 (tag: v0.1)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 21:52:39 2016 -0430
+
+    * changelog
+
+commit 449f68193e9b0ff654c18a3d12d40602b4901597
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Apr 5 21:52:18 2016 -0430
 
